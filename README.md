@@ -49,8 +49,10 @@ Sou dedicado, curioso.
 
 ###
 
-<p align="center">
-  <img src="https://github.com/souuzavinicius/souuzavinicius/blob/output/github-contribution-grid-snake.svg" alt="Pacman Animation" width="100%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/souuzavinicius/souuzavinicius/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: night)" srcset="https://raw.githubusercontent.com/souuzavinicius/souuzavinicius/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/souuzavinicius/souuzavinicius/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
