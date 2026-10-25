@@ -49,6 +49,8 @@ Sou dedicado, curioso.
 
 ###
 
-pac-man 
+<p align="center">
+  <img src="https://github.com/souuzavinicius/souuzavinicius/blob/output/github-contribution-grid-snake.svg" alt="Pacman Animation" width="100%" />
+</p>
 
 ###
