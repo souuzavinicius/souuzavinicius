@@ -47,12 +47,5 @@ Sou dedicado, curioso.
 
 </div>
 
-###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/souuzavinicius/souuzavinicius/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: night)" srcset="https://raw.githubusercontent.com/souuzavinicius/souuzavinicius/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/souuzavinicius/souuzavinicius/output/pacman-contribution-graph.svg">
-</picture>
 
-###
