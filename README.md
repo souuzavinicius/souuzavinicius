@@ -1,18 +1,19 @@
-## Olá, eu sou o Vinicius De Souza! 
-
-###
->Estudante de Engenharia de Software ...
+## Vincius Souza  
+Estudante de Engenharia de Software | Desenvolvedor em formação
 ###
 
 ## Sobre mim
 
 ###
 
- Estudante de Engenharia de Software, com foco em desenvolvimento web e programação. Atualmente, estou estudando PYTHON e C, aprimorando minhas habilidades para criar soluções eficientes e funcionais.
 
-Meu objetivo é conquistar minha primeira oportunidade como estagiário em TI, contribuindo com projetos reais, aprendendo e crescendo junto com a equipe.
-Sou dedicado, curioso.
-Estou em busca da minha primeira oportunidade no mercado de TI como Estagiário</p>
+Sou estudante de Engenharia de Software, interessado em tecnologia, programação e desenvolvimento de software.
+
+Atualmente, aprimoro meus conhecimentos em Python, C, HTML e CSS, buscando desenvolver soluções eficientes e expandir minhas habilidades técnicas.
+
+Objetivo: conquistar uma oportunidade na área de TI, aplicar meus conhecimentos e crescer profissionalmente por meio de novos desafios.
+
+🚀 Em constante aprendizado e evolução. 
 
 ###
 
