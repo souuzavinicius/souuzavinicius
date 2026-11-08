@@ -13,7 +13,7 @@ Atualmente, aprimoro meus conhecimentos em Python, C, HTML e CSS, buscando desen
 
 Objetivo: conquistar uma oportunidade na área de TI, aplicar meus conhecimentos e crescer profissionalmente por meio de novos desafios.
 
-🚀 Em constante aprendizado e evolução. 
+
 
 ###
 
